@@ -1,0 +1,16 @@
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.csproj.AssemblyReference.cache
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.AssemblyInfoInputs.cache
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.AssemblyInfo.cs
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.csproj.CoreCompileInputs.cache
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/bin/Debug/net6.0/DartLeague
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/bin/Debug/net6.0/DartLeague.deps.json
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/bin/Debug/net6.0/DartLeague.runtimeconfig.json
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/bin/Debug/net6.0/DartLeague.dll
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/bin/Debug/net6.0/DartLeague.pdb
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.dll
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/refint/DartLeague.dll
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.pdb
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/DartLeague.genruntimeconfig.cache
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/obj/Debug/net6.0/ref/DartLeague.dll
+/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/bin/Debug/net6.0/PlayersElo.json

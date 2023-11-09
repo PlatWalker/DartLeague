@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghs50DNlfbH+8/9KXhbsigUxlXOABhsgbTuISTCOXNelUh3HK33BrmlWQRy8iRZn1Xep8NixBSgBWWSp1j/+Cw==",
+  "success": true,
+  "projectFilePath": "/Users/lukaszklingenberg/RiderProjects/DartLeague/DartLeague/DartLeague.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukaszklingenberg/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/lukaszklingenberg/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/lukaszklingenberg/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.20/microsoft.netcore.app.host.osx-arm64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
